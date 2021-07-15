@@ -1,5 +1,5 @@
 #########################    HOUSING PRICE PREDICTION MODEL   ################################
-#	TEAM: Gayathri Movva, Giri Nanduru, Pedro Ortiz, Umar Salam, Hassaan Saleh
+#	TEAM: Gayathri Movva and other team members from OR 568 course
 ##############################################################################################
 
 # Packages / LIBRARIES INCLUDED

@@ -13,8 +13,8 @@ Execution Time: 3 hours
 7.	Xgboost model was run with kfold /5 repeats. But the code was commented out to reduce the execution time.
 
 The R code is organized into following main sections:
- 	Import and Prepare Data for Visualizations
- 	Additional Data Preprocessing
- 	Data Exploration and Visualization
- 	Data partition into Training/Test sets
- 	Model selection & Tuning
+ 	### Import and Prepare Data for Visualizations
+ 	### Additional Data Preprocessing
+ 	### Data Exploration and Visualization
+ 	### Data partition into Training/Test sets
+ 	### Model selection & Tuning

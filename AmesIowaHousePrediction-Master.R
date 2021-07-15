@@ -70,8 +70,8 @@ library(xgboost)
 #  			 Import and Prepare Data for Visualizations
 ##############################################################################################
 start.time <- Sys.time()
-
-setwd("C:/Masters/OR568/Final Project/")
+# Set the path to location of the dataset
+setwd("C:/sample_path/datasets/")
 HouseFullDF <- read.csv("train.csv", stringsAsFactors = FALSE)
 HouseTestFullDF <- read.csv("test.csv", stringsAsFactors = FALSE)
 str(HouseFullDF)

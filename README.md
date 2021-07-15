@@ -11,10 +11,14 @@
   5.	You can run the code up to the Modeling section (line 1363) and then choose to run a specific model. Or you can execute the entire code and it will take around 3 hours to complete.
   6.	If you have any questions about the R code please send email to our team.
   7.	Xgboost model was run with kfold /5 repeats. But the code was commented out to reduce the execution time.
-
+ 
 ## The R code is organized into following main sections:
  ### Import and Prepare Data for Visualizations
  ### Additional Data Preprocessing
  ### Data Exploration and Visualization
  ### Data partition into Training/Test sets
  ### Model selection & Tuning
+ 
+## Set the path to the location of dataset in the r code using setwd() 
+  Eg: setwd("C:/sample_path/datasets/")
+
